@@ -52,8 +52,8 @@ select_alt  = { fg = "#bb9af7", bg = "#3b4261" }
 unset_main = { fg = "#15161e", bg = "#9ece6a" }
 unset_alt  = { fg = "#9ece6a", bg = "#3b4261" }
 
-
 # : }}}
+
 
 # : Indicator of hovered file {{{
 
@@ -61,6 +61,7 @@ unset_alt  = { fg = "#9ece6a", bg = "#3b4261" }
 padding = { open = "█", close = "█" }
 
 # : }}}
+
 
 # : Status bar {{{
 
@@ -81,8 +82,8 @@ perm_read  = { fg = "#e0af68" }
 perm_write = { fg = "#f7768e" }
 perm_exec  = { fg = "#bb9af7" }
 
-
 # : }}}
+
 
 # : Pick {{{
 
